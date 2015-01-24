@@ -1,4 +1,4 @@
 flappybird
 ==========
 
-Please visit [http://jingbei.tk/flappybird](http://jingbei.tk/flappybird) to have a try!
+Please visit [http://jingbei.tk/flappybird](http://jingbei.li/flappybird) to have a try!
